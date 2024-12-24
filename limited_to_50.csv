@@ -47,5 +47,5 @@
 "void","Exit|Fast|Guard|HSDir|Running|Stable|V2Dir|Valid","pl","45.141.215.133","9000",true,"NULL"
 "DigiGesTor1e1","Exit|Fast|Guard|HSDir|Running|Stable|V2Dir|Valid","ch","185.195.71.244","443",true,"NULL"
 "motauri","Exit|Fast|HSDir|Running|Stable|V2Dir|Valid","se","95.143.193.125","443",true,"NULL"
-"WishMaster","Fast|Running|StaleDesc|V2Dir|Valid","ru","31.192.107.132","443",true,"NULL"
-"Pacbert","Fast|Running|V2Dir|Valid","de","93.231.114.90","9001",true,"p5de7725a.dip0.t-ipconnect.de"
+"WishMaster","Fast|Running|V2Dir|Valid","ru","31.192.107.132","443",true,"NULL"
+"Pacbert","Fast|Running|V2Dir|Valid","de","79.219.17.144","9001",true,"p4fdb1190.dip0.t-ipconnect.de"
