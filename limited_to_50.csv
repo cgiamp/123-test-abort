@@ -7,7 +7,7 @@
 "MORDEKAISER","Fast|Guard|Running|Stable|V2Dir|Valid","de","84.16.234.150","9030",true,"NULL"
 "NipseyHussle","Exit|Fast|Guard|HSDir|Running|Stable|V2Dir|Valid","de","84.247.183.128","443",true,"tor-exit-readme-1.quido.org"
 "skylarkRelay","Fast|Guard|HSDir|Running|Stable|V2Dir|Valid","de","95.111.230.178","443",true,"NULL"
-"9g4net3","Fast|Running|V2Dir|Valid","gb","185.184.70.225","443",true,"NULL"
+"9g4net3","Fast|Guard|HSDir|Running|Stable|V2Dir|Valid","gb","185.184.70.225","443",true,"NULL"
 "Quetzalcoatl","Exit|Fast|Guard|HSDir|Running|Stable|V2Dir|Valid","hu","45.9.168.108","8430",true,"NULL"
 "StarAppsMobley","Fast|Guard|Running|Stable|V2Dir|Valid","ch","195.15.242.99","9001",true,"195-15-242-99.dc3-a.pub1.etik-cloud.com"
 "telecomadmin","Exit|Fast|Running|Valid","jp","114.158.248.4","9001",false,"p3675004-ipxg13201funabasi.chiba.ocn.ne.jp"
