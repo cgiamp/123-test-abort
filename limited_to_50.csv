@@ -47,5 +47,5 @@
 "relay1","Fast|Guard|HSDir|Running|Stable|V2Dir|Valid","nl","80.85.141.186","9000",true,"NULL"
 "ChumBucket","Fast|Guard|HSDir|Running|Stable|V2Dir|Valid","de","5.9.56.249","4080",true,"static.249.56.9.5.clients.your-server.de"
 "Quintex55","Exit|Fast|Guard|HSDir|Running|Stable|V2Dir|Valid","us","204.8.96.144","443",true,"tor55.quintex.com"
-"dragonhoard","Fast|Guard|Running|Stable|V2Dir|Valid","de","116.203.50.182","8080",true,"mail.sergal.club"
+"dragonhoard","Fast|Guard|HSDir|Running|Stable|V2Dir|Valid","de","116.203.50.182","8080",true,"mail.sergal.club"
 "Quintex85","Exit|Fast|Guard|HSDir|Running|Stable|V2Dir|Valid","us","204.8.96.174","443",true,"tor85.quintex.com"
