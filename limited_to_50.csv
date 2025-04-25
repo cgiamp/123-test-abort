@@ -35,7 +35,7 @@
 "artikel10buc27","Exit|Fast|Running|Stable|Valid","ro","185.100.85.25","9003",false,"bucarest01.tor-exit.artikel10.org"
 "prsv","Fast|Guard|Running|Stable|V2Dir|Valid","fr","163.5.121.212","9200",true,"hms31433.hostmyservers.me"
 "mharelay","Fast|Guard|HSDir|Running|Stable|V2Dir|Valid","se","147.28.87.56","9001",true,"customer-147-28-87-56.stosn.net"
-"mimecetonege","Fast|Running|V2Dir|Valid","fi","65.108.104.243","9001",true,"static.243.104.108.65.clients.your-server.de"
+"mimecetonege","Fast|HSDir|Running|Stable|V2Dir|Valid","fi","65.108.104.243","9001",true,"static.243.104.108.65.clients.your-server.de"
 "gembonggedhe","Fast|Running|Stable|Valid","us","168.138.179.192","9001",true,"NULL"
 "NTH30R8","Exit|Fast|Running|Stable|Valid","nl","192.42.116.182","9007",true,"30.tor-exit.nothingtohide.nl"
 "Benjaminos","BadExit|Fast|MiddleOnly|Running|Stable|Valid","pl","45.129.0.166","9001",true,"NULL"
