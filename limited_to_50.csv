@@ -24,7 +24,7 @@
 "venenata","Fast|Running|Stable|Valid","us","71.19.144.65","9001",true,"venenata.mutantmonkey.in"
 "jollyjack","Fast|HSDir|Running|Stable|V2Dir|Valid","bd","45.249.101.87","9090",true,"NULL"
 "INSRelay42at8443","Fast|HSDir|Running|Stable|V2Dir|Valid","at","140.78.100.42","8443",true,"NULL"
-"LoveOnlyMonero","Fast|Running|Stable|Valid","se","185.153.55.208","443",true,"NULL"
+"LoveOnlyMonero","Fast|Running|Valid","se","185.153.55.208","443",true,"NULL"
 "HandsofGoldSpa","BadExit|MiddleOnly|Running|Stable|Valid","de","176.118.193.106","443",true,"NULL"
 "torplemmax","Fast|Guard|HSDir|Running|Stable|V2Dir|Valid","pl","185.120.137.202","443",true,"NULL"
 "Ajax","BadExit|Fast|MiddleOnly|Running|Valid","us","206.189.6.56","9999",true,"NULL"
