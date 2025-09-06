@@ -29,7 +29,7 @@
 "HandsofGoldSpa","BadExit|MiddleOnly|Running|Stable|Valid","de","176.118.193.106","443",true,"NULL"
 "eo190","Exit|Fast|Guard|HSDir|Running|Stable|V2Dir|Valid","us","23.129.64.190","443",true,"NULL"
 "torplemmax","Fast|Guard|HSDir|Running|Stable|V2Dir|Valid","pl","185.120.137.202","443",true,"NULL"
-"Ajax","BadExit|Fast|MiddleOnly|Running|Stable|Valid","us","206.189.6.56","9999",true,"NULL"
+"Ajax","BadExit|Fast|MiddleOnly|Running|Valid","us","206.189.6.56","9999",true,"NULL"
 "MaxRelay2","Fast|Guard|HSDir|Running|Stable|V2Dir|Valid","us","23.186.168.33","443",true,"t0r1.maxhost.io"
 "FTPhalifaxRWTH","Fast|Guard|HSDir|Running|Stable|V2Dir|Valid","de","137.226.34.45","9001",true,"not-ftp.halifax.rwth-aachen.de"
 "NTH5R7","Exit|Fast|Running|Stable|Valid","nl","192.42.116.195","9006",true,"5.tor-exit.nothingtohide.nl"
