@@ -18,7 +18,7 @@
 "ITSCTheLordMyLight","Fast|Guard|Running|Stable|V2Dir|Valid","de","128.140.60.104","9001",true,"static.104.60.140.128.clients.your-server.de"
 "NTH33R5","Exit|Fast|Running|Stable|Valid","nl","192.42.116.185","9004",true,"33.tor-exit.nothingtohide.nl"
 "r0cket11i7","Exit|Fast|Running|Stable|Valid","se","45.84.107.128","853",true,"exit-11.tor.r0cket.net"
-"Athena","Fast|Guard|HSDir|Running|Stable|V2Dir|Valid","lu","104.244.79.75","443",true,"NULL"
+"Athena","Fast|Guard|Running|Stable|V2Dir|Valid","lu","104.244.79.75","443",true,"NULL"
 "eisbaer","Exit|Fast|Running|Stable|Valid","at","109.70.100.70","9002",true,"tor-exit-anonymizer.appliedprivacy.net"
 "Unnamed","Running|Stable|V2Dir|Valid","gr","185.243.214.73","9001",true,"ip-185-243-214-73-123886.vps.hosted-by-mvps.net"
 "anarchistcook","Exit|Fast|Guard|HSDir|Running|Stable|V2Dir|Valid","ch","179.43.159.78","9001",true,"NULL"
