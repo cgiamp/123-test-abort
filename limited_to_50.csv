@@ -28,7 +28,7 @@
 "Quintex13","Exit|Fast|Guard|HSDir|Running|Stable|V2Dir|Valid","us","204.8.96.103","443",true,"tor13.quintex.com"
 "venenata","Fast|Running|Stable|Valid","us","71.19.144.65","9001",true,"venenata.mutantmonkey.in"
 "FEVI20","Fast|Guard|Running|Stable|V2Dir|Valid","us","23.134.90.59","443",true,"NULL"
-"jollyjack","Fast|HSDir|Running|Stable|V2Dir|Valid","bd","45.249.101.87","9090",true,"NULL"
+"jollyjack","Fast|HSDir|Running|Stable|V2Dir|Valid","bd","45.249.101.87","9090",false,"NULL"
 "INSRelay42at8443","Fast|HSDir|Running|Stable|V2Dir|Valid","at","140.78.100.42","8443",true,"NULL"
 "LoveOnlyMonero","Fast|Running|Valid","se","185.153.55.208","443",true,"NULL"
 "HandsofGoldSpa","BadExit|MiddleOnly|Running|Stable|Valid","de","176.118.193.106","443",true,"NULL"
