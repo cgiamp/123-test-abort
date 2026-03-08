@@ -23,7 +23,7 @@
 "r0cket11i7","Exit|Fast|Running|Stable|Valid","se","45.84.107.128","853",true,"exit-11.tor.r0cket.net"
 "Athena","Fast|Guard|HSDir|Running|Stable|V2Dir|Valid","lu","104.244.79.75","443",false,"NULL"
 "eisbaer","Exit|Fast|Running|Stable|Valid","at","109.70.100.12","9002",true,"tor-exit-anonymizer.appliedprivacy.net"
-"JayCO1","Running|V2Dir|Valid","se","198.167.193.192","9001",true,"c6a7c1c0.vpn.njalla.net"
+"JayCO1","Running|V2Dir|Valid","se","198.167.193.154","9001",true,"c6a7c19a.vpn.njalla.net"
 "Unnamed","Running|Stable|V2Dir|Valid","gr","185.243.214.73","9001",true,"ip-185-243-214-73-123886.vps.hosted-by-mvps.net"
 "anarchistcook","Exit|Fast|Guard|HSDir|Running|Stable|V2Dir|Valid","ch","179.43.159.78","9001",true,"NULL"
 "venenata","Fast|Running|Stable|Valid","us","71.19.144.65","9001",true,"venenata.mutantmonkey.in"
