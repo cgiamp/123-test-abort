@@ -38,7 +38,7 @@
 "MaxRelay2","Fast|Guard|HSDir|Running|Stable|V2Dir|Valid","us","23.186.168.33","443",true,"t0r1.maxhost.io"
 "FTPhalifaxRWTH","Fast|Guard|HSDir|Running|Stable|V2Dir|Valid","de","137.226.34.45","9001",true,"not-ftp.halifax.rwth-aachen.de"
 "NTH98R7","Exit|Fast|Running|Stable|Valid","nl","192.42.116.98","9006",true,"NULL"
-"UnshakledLiberty","Fast|Guard|HSDir|Running|Stable|V2Dir|Valid","us","15.204.199.47","9002",true,"vps-5d4b182f.vps.ovh.us"
+"UnshakledLiberty","Fast|Guard|Running|Stable|V2Dir|Valid","us","15.204.199.47","9002",true,"vps-5d4b182f.vps.ovh.us"
 "Bulgar0101","Exit|Fast|Running|Stable|Valid","us","23.137.251.187","9001",true,"NULL"
 "TorRelayHetzFree","Fast|Guard|HSDir|Running|Stable|V2Dir|Valid","de","88.198.27.62","443",true,"static.88-198-27-62.clients.your-server.de"
 "NTH43R4","Exit|Fast|Running|Stable|Valid","nl","192.42.116.43","9003",true,"NULL"
