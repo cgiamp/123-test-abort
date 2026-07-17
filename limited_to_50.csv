@@ -8,7 +8,7 @@
 "titamon3","Exit|Fast|Guard|Running|Stable|V2Dir|Valid","it","178.218.144.18","443",true,"NULL"
 "skylarkRelay","Fast|Guard|Running|Stable|V2Dir|Valid","de","95.111.230.178","443",true,"NULL"
 "9g4net3","Fast|Running|V2Dir|Valid","gb","185.184.70.225","443",true,"NULL"
-"masterp","Fast|Guard|HSDir|Running|Stable|V2Dir|Valid","us","96.9.98.148","443",true,"NULL"
+"masterp","Fast|Guard|Running|Stable|V2Dir|Valid","us","96.9.98.148","443",true,"NULL"
 "StarAppsMobley","Fast|Guard|Running|Stable|V2Dir|Valid","ch","84.234.21.98","9001",true,"ov-0b2913.infomaniak.ch"
 "ernies","Fast|Running|Stable|V2Dir|Valid","se","80.239.189.84","9001",true,"NULL"
 "ProxmoxA","Fast|Running|Stable|V2Dir|Valid","it","195.32.70.185","9001",false,"host185-70-32-195.dimensionesrl.eu"
